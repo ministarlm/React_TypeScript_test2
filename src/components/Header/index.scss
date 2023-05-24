@@ -1,0 +1,25 @@
+@import "../../styles/colors.scss";
+
+.header {
+  color: $color-white;
+  background-color: $color-primary;
+  display: flex;
+  height: 120px;
+  justify-content: center;
+  align-items: center;
+}
+
+// @import "styles/colors.scss";
+
+// .header {
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   height: 120px;
+//   background-color: $color-primary;
+//   color: $color-white;
+
+//   &_title {
+//     transform: skew(-6deg);
+//   }
+// }

@@ -1,0 +1,85 @@
+{
+  "contacts": [
+    {
+      "id": 0,
+      "name": "Ministar",
+      "surname": "Leovac",
+      "profilePicture": "https://i.redd.it/rso9o52iozk41.jpg",
+      "phoneNumber": "+385123412345",
+      "emailAddress": "ministar.leovac@gmail.com",
+      "isFavorite": true
+    },
+    {
+      "id": 1,
+      "name": "Ministar",
+      "surname": "Lozano",
+      "profilePicture": "https://external-preview.redd.it/sEUzDwurS4NaQi4FCARTXo74yrAs_Unebp47L1GDis0.png?format=pjpg&auto=webp&s=d1f7251274e275fab56af41ad1cd363577cc5f2c",
+      "phoneNumber": "+38540286974",
+      "emailAddress": "ministar.lozano@gmail.com",
+      "isFavorite": true
+    },
+    {
+      "id": 2,
+      "name": "Ministar",
+      "surname": "Leki",
+      "profilePicture": "https://preview.redd.it/b3pv9d5byy971.jpg?width=640&crop=smart&auto=webp&s=9de27a130796fafee636f1138b4e5768c259579b",
+      "phoneNumber": "+38525682469",
+      "emailAddress": "ministar.leki@gmail.com",
+      "isFavorite": true
+    },
+    {
+      "id": 3,
+      "name": "Ministar",
+      "surname": "Maroje",
+      "profilePicture": "https://64.media.tumblr.com/e213ef5330200b21dd2e97a663b78c04/tumblr_o2trwxQvko1u9e5leo2_1280.jpg",
+      "phoneNumber": "+3854356775",
+      "emailAddress": "ministar.maroje@gmail.com",
+      "isFavorite": true
+    },
+    {
+      "id": 4,
+      "name": "Vatroslav",
+      "surname": "Lisinski",
+      "profilePicture": "",
+      "phoneNumber": "+39485790237",
+      "emailAddress": "vatroslav.lisinski1950@gmail.com",
+      "isFavorite": true
+    },
+    {
+      "id": 5,
+      "name": "Vatroslav",
+      "surname": "Lisinski",
+      "profilePicture": "",
+      "phoneNumber": "+39485790237",
+      "emailAddress": "vatroslav.lisinski1950@gmail.com",
+      "isFavorite": true
+    },
+    {
+      "id": 6,
+      "name": "Vatroslav",
+      "surname": "Lisinski",
+      "profilePicture": "",
+      "phoneNumber": "+39485790237",
+      "emailAddress": "vatroslav.lisinski1950@gmail.com",
+      "isFavorite": true
+    },
+    {
+      "id": 7,
+      "name": "Vatroslav",
+      "surname": "Lisinski",
+      "profilePicture": "",
+      "phoneNumber": "+39485790237",
+      "emailAddress": "vatroslav.lisinski1950@gmail.com",
+      "isFavorite": true
+    },
+    {
+      "id": 8,
+      "name": "Vatroslav",
+      "surname": "Lisinski",
+      "profilePicture": "",
+      "phoneNumber": "+39485790237",
+      "emailAddress": "vatroslav.lisinski1950@gmail.com",
+      "isFavorite": true
+    }
+  ]
+}

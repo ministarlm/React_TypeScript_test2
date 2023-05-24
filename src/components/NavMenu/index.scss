@@ -1,0 +1,28 @@
+@import "styles/colors.scss";
+
+.nav-menu {
+  padding-bottom: 15px;
+
+  a {
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: $color-primary;
+    text-decoration: none;
+    transition: 0.2s all;
+
+    :not(:last-child) {
+      margin-right: 10px;
+    }
+
+    &:hover {
+      border-bottom: 2px solid $color-primary;
+    }
+
+    &.active {
+      color: $color-secondary;
+      border-bottom: 2px solid $color-secondary;
+    }
+  }
+}

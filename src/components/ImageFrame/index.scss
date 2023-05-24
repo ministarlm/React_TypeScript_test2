@@ -1,0 +1,19 @@
+@import "styles/colors.scss";
+
+.image-frame {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 75px;
+  height: 75px;
+  border: 2px solid $color-primary;
+  background-color: $color-placeholder;
+  border-radius: 100%;
+  // object-fit: cover;
+
+  img {
+    width: inherit;
+    height: inherit;
+    border-radius: inherit;
+  }
+}
